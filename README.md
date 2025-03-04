@@ -1,3 +1,3 @@
 # webdev-demoo
-This is my first git Repository
-Author - Jianish Khunt
+This is my first git Repository<br>
+Author - Jainish Khunt
